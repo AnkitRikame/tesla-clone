@@ -75,12 +75,11 @@ const Header = () => {
 
 	return (
 		<Container>
-			<a href="#">
+			<a href="/">
 				<img
 					src="./images/logo.svg"
 					alt="Tesla Logo"
                     width="90px"
-					
 				/>
 			</a>
 

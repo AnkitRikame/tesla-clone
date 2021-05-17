@@ -97,7 +97,4 @@ const Foot = styled.div`
         }
     
 	}
-
-   
-
-`;
+`
